@@ -14,7 +14,7 @@
 <a href="https://dio.me/curso-chat-gpt-for-devs/AFB07B56E0J8">
     <img 
         src="https://github.com/P4mm/prompts-for-podcast-generate-by-ia/blob/main/assets/6294f7be4609037792ef370f.png" 
-        alt="Ouça o episódio aqui">
+        alt="Ouça o episódio aqui"> width="100";
 </a>
 </p>
 
