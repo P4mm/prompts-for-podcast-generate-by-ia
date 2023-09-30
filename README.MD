@@ -13,7 +13,7 @@
 </a>
 <a href="https://dio.me/curso-chat-gpt-for-devs/AFB07B56E0J8">
 <img 
-    src="https://dio.me/curso-chat-gpt-for-devs/AFB07B56E0J8" 
+    src="https://camo.githubusercontent.com/d6cfad1f8f8895a…467652ff09f94b45f4c4956455f434f44452d464635453732" 
     alt="🔴 LIVE CODE">
 </a>
 </p>
