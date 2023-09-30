@@ -11,13 +11,10 @@
         src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
         alt="DIO - Code The Future">
 </p>
-<p align="center">
-    preview do podcast
-</p>
 <p align="center"
 <a href="https://spotifyanchor-web.app.link/e/dsSjo4ZlwDb">
     <img 
-        src="https://www.vecteezy.com/png/22100989-spotify-logo-transparent-png" alt="">
+        src="https://www.vecteezy.com/png/22100989-spotify-logo-transparent-png" alt="preview do podcast">
 </p>
 
 <div align="center">
