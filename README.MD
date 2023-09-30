@@ -13,7 +13,7 @@
 </a>
 <a href="https://spotifyanchor-web.app.link/e/dsSjo4ZlwDb">
     <img 
-        src="<a href="https://www.flaticon.com/free-icons/spotify-sketch" 
+        src="href="https://www.flaticon.com/free-icons/spotify-sketch" 
         alt="Ouça o episódio aqui">
 </a>
 </p>
