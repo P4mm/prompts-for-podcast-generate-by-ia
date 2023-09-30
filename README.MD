@@ -8,9 +8,9 @@
 <p align="center">
 <a href="https://spotifyanchor-web.app.link/e/dsSjo4ZlwDb">
     <img 
-        src="https://upload.wikimedia.org/wikipedia/commons/2/26/Spotify_logo_with_text.svg" 
+        src="https://upload.wikimedia.org/wikipedia/commons/2/26/Spotify_logo_with_text.svg" width="300";
         alt="preview do podcast">
-width="300";
+
 </p>
 <div align="center">
     <audio src="https://github.com/P4mm/prompts-for-podcast-generate-by-ia/blob/main/podcast1.mp4" controls title="Podcast editado"></audio>
