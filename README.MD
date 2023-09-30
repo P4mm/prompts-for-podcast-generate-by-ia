@@ -11,10 +11,10 @@
         src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
         alt="DIO - Code The Future">
 </a>
-<a href="https://dio.me/curso-chat-gpt-for-devs/AFB07B56E0J8">
+<a href="https://spotifyanchor-web.app.link/e/dsSjo4ZlwDb">
     <img 
         src="https://github.com/P4mm/prompts-for-podcast-generate-by-ia/blob/main/assets/6294f7be4609037792ef370f.png" 
-        width="50" alt="Ouça o episódio aqui"> ;
+        alt="Ouça o episódio aqui"> ;
 </a>
 </p>
 
