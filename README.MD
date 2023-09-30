@@ -77,7 +77,6 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
         href="https://www.linkedin.com/in/pamela-dantas/">
         LinkedIn
     </a>
-    &nbsp;|&nbsp;
    </p>
 <br/><br/>
 <p>
