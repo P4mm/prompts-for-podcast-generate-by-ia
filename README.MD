@@ -13,6 +13,10 @@
 </p>
 <p align="center">
     preview do podcast
+<a href="https://dio.me/curso-chat-gpt-for-devs/AFB07B56E0J8">
+    <img 
+        src="https://www.vecteezy.com/png/22100989-spotify-logo-transparent-png" 
+        alt="DIO - Code The Future">
 </p>
 
 <div align="center">
