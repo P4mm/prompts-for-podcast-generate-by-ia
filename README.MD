@@ -6,17 +6,11 @@
 </p>
 
 <p align="center">
-<a href="https://dio.me/curso-chat-gpt-for-devs/AFB07B56E0J8">
-    <img 
-        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
-        alt="DIO - Code The Future">
-</p>
-<p align="center"
 <a href="https://spotifyanchor-web.app.link/e/dsSjo4ZlwDb">
     <img 
-        src="https://www.vecteezy.com/png/22100989-spotify-logo-transparent-png" alt="preview do podcast">
+        src="https://www.vecteezy.com/png/22100989-spotify-logo-transparent-png" 
+        alt="preview do podcast">
 </p>
-
 <div align="center">
     <audio src="https://github.com/P4mm/prompts-for-podcast-generate-by-ia/blob/main/podcast1.mp4" controls title="Podcast editado"></audio>
 </div>
@@ -24,7 +18,7 @@
 # Projeto Podcast Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me/curso-chat-gpt-for-devs/AFB07B56E0J8)
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
