@@ -64,7 +64,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
       align=left 
       margin=10 
       width=80 
-      src="https://github.com/account"
+      src="https://github.com/P4mm/prompts-for-podcast-generate-by-ia/blob/main/assets/IMG_4146.jpg"
     />
     <p>&nbsp&nbsp&nbspPâmela Dantas<br>
     &nbsp&nbsp&nbsp
