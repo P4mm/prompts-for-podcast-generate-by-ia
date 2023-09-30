@@ -14,7 +14,7 @@
 <a href="https://spotifyanchor-web.app.link/e/dsSjo4ZlwDb">
     <img 
         src="https://github.com/P4mm/prompts-for-podcast-generate-by-ia/blob/main/assets/6294f7be4609037792ef370f.png" 
-        alt="Ouça o episódio aqui"> ;
+        alt="Ouça o episódio aqui"> 
 </a>
 </p>
 
