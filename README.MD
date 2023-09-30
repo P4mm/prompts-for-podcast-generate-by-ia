@@ -11,9 +11,9 @@
         src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
         alt="DIO - Code The Future">
 </a>
-
+<a href="https://www.flaticon.com/free-icons/spotify-sketch"
+</a>
 </p>
-<a href="https://www.flaticon.com/free-icons/spotify-sketch" title="spotify sketch icons">Spotify sketch icons created by Fathema Khanom - Flaticon</a>
 <p align="center">
     preview do podcast
 </p>
