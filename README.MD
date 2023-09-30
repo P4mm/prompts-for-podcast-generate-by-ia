@@ -11,7 +11,6 @@
         src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
         alt="DIO - Code The Future">
 </a>
-<p align="center">
 <a href="https://dio.me/curso-chat-gpt-for-devs/AFB07B56E0J8">
     <img 
         src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
