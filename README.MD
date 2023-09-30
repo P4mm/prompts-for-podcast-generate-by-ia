@@ -18,7 +18,7 @@
 </p>
 
 <div align="center">
-    <audio src="https://spotifyanchor-web.app.link/e/dsSjo4ZlwDb" controls title="Podcast editado"></audio>
+    <audio src="podcast1.mp4" controls title="Podcast editado"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
