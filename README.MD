@@ -1,7 +1,7 @@
 <p align="center">
 <img 
-    src="https://github.com/P4mm/prompts-for-podcast-generate-by-ia/blob/main/.github/assets/Foto%20de%20perfil%20para%20instagram%20brilhante%20gradiente%20moderno%20rosa.png"
-    width="300"; border-radius: 50%;
+    src="https://github.com/P4mm/prompts-for-podcast-generate-by-ia/blob/main/assets/P4mm-dantas-1--unscreen.gif"
+    width="300";
 
 </p>
 
