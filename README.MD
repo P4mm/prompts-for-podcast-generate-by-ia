@@ -8,8 +8,8 @@
 <p align="center">
 <a href="https://spotifyanchor-web.app.link/e/dsSjo4ZlwDb">
     <img 
-        src="https://upload.wikimedia.org/wikipedia/commons/2/26/Spotify_logo_with_text.svg" width="300";
-        alt="preview do podcast">
+        src="https://upload.wikimedia.org/wikipedia/commons/2/26/Spotify_logo_with_text.svg" 
+        alt="preview do podcast" width="300">
 
 </p>
 <div align="center">
