@@ -13,14 +13,14 @@
 </a>
 
 </p>
-<a href="https://www.flaticon.com/free-icons/spotify-sketch"
-</a>
 <p align="center">
     preview do podcast
 </p>
 
 <div align="center">
-    <audio src="https://github.com/P4mm/prompts-for-podcast-generate-by-ia/blob/main/podcast1.mp4" controls title="Podcast editado"></audio>
+    <audio src="https://spotifyanchor-web.app.link/e/dsSjo4ZlwDb" controls title="Podcast editado"></audio>
+  <img 
+        src="<a href="https://www.flaticon.com/free-icons/spotify-sketch" >
 </div>
 
 # Projeto Podcast Gerado por I.A.s
