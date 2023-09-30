@@ -13,7 +13,6 @@
 </a>
 <a href="https://dio.me/curso-chat-gpt-for-devs/AFB07B56E0J8">
 <img 
-    src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.freepik.com%2Fvetores-premium%2Ficone-de-transmissao-ao-vivo-do-youtube-vermelho-e-preto_37625577.htm&psig=AOvVaw07U-zNvTudkBsOJePIYr1s&ust=1696176827375000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjjn5_d0oEDFQAAAAAdAAAAABAE" 
     alt="🔴 LIVE CODE">
 </a>
 </p>
