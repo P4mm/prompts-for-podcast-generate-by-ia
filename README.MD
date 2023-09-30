@@ -11,11 +11,9 @@
         src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
         alt="DIO - Code The Future">
 </a>
-  &nbsp&nbsp&nbsp
     <a 
         href="https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_CMYK_Green-768x231.png">
     </a>
-    &nbsp;|&nbsp;
 </p>
 <p align="center">
     preview do podcast
