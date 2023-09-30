@@ -11,11 +11,6 @@
         src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
         alt="DIO - Code The Future">
 </a>
-<a href="https://dio.me/curso-chat-gpt-for-devs/AFB07B56E0J8">
-    <img 
-        src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.freepik.com%2Fvetores-premium%2Fsimbolo-de-icone-de-transmissao-ao-vivo-transmissao-de-video-de-icone-de-transmissao-ao-vivo-tv-noticias-filme-mostrar-sinal-de-botao_37054755.htm&psig=AOvVaw07U-zNvTudkBsOJePIYr1s&ust=1696176827375000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjjn5_d0oEDFQAAAAAdAAAAABAJ" 
-        alt="🔴 LIVE CODE">
-</a>
 </p>
 
 <p align="center">
