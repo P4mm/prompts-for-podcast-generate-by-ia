@@ -15,9 +15,9 @@
     preview do podcast
 </p>
 <p align="center"
-<a href="https://dio.me/curso-chat-gpt-for-devs/AFB07B56E0J8">
+<a href="https://spotifyanchor-web.app.link/e/dsSjo4ZlwDb">
     <img 
-        src="https://www.vecteezy.com/png/22100989-spotify-logo-transparent-png">
+        src="https://www.vecteezy.com/png/22100989-spotify-logo-transparent-png" alt="">
 </p>
 
 <div align="center">
