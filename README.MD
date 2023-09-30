@@ -19,8 +19,6 @@
 
 <div align="center">
     <audio src="https://spotifyanchor-web.app.link/e/dsSjo4ZlwDb" controls title="Podcast editado"></audio>
-  <img 
-        src="<a href="https://www.flaticon.com/free-icons/spotify-sketch"></a>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
