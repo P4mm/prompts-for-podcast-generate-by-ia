@@ -8,7 +8,7 @@
 <p align="center">
 <a href="https://spotifyanchor-web.app.link/e/dsSjo4ZlwDb">
     <img 
-        src="https://www.vecteezy.com/png/22100989-spotify-logo-transparent-png" 
+        src="https://upload.wikimedia.org/wikipedia/commons/2/26/Spotify_logo_with_text.svg" 
         alt="preview do podcast">
 </p>
 <div align="center">
