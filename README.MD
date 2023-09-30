@@ -18,7 +18,7 @@
 </p>
 
 <div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
+    <audio src="https://github.com/P4mm/prompts-for-podcast-generate-by-ia/blob/main/podcast1.mp4" controls title="Podcast editado"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
