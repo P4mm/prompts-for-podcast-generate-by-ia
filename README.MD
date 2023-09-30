@@ -12,8 +12,9 @@
         alt="DIO - Code The Future">
 </a>
 <a href="https://dio.me/curso-chat-gpt-for-devs/AFB07B56E0J8">
-<img 
-    alt="🔴 LIVE CODE">
+    <img 
+        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
+        alt="🔴 LIVE CODE">
 </a>
 </p>
 
