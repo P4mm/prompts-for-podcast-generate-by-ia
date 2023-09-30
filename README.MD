@@ -13,8 +13,8 @@
 </a>
 <a href="https://spotifyanchor-web.app.link/e/dsSjo4ZlwDb">
     <img 
-        src="https://github.com/P4mm/prompts-for-podcast-generate-by-ia/blob/main/assets/6294f7be4609037792ef370f.png" 
-        alt="Ouça o episódio aqui"> ;
+        src="<a href="https://www.flaticon.com/free-icons/spotify-sketch" title="spotify sketch icons">Spotify sketch icons created by Fathema Khanom - Flaticon</a>" 
+        alt="Ouça o episódio aqui">
 </a>
 </p>
 
